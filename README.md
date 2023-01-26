@@ -1,3 +1,9 @@
+Hello, It's a little application English Cards in React.js
+You can test it https://en-cards-react.vercel.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
